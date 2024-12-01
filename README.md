@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Akhil Varsh
 
-![Profile Views](https://komarev.com/ghpvc/?username=akhil-varsh&color=blueviolet)
 
 ## 🌈 About Me
 
@@ -18,7 +17,7 @@
 | Project | Vision | Tech Arsenal | Explore Repository |
 |:--:|:--:|:--:| :--: |
 | **🔬 SnapLearn** | AI-Powered Question Generation | • 🚀 75% Faster Creation<br>• 📸 Google ML Kit OCR<br>• 🧠 Intelligent Generation<br>• 🔍 30-40 Diverse Questions | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/akhil-varsh/SnapLearn) | 
-| **🏙️ Urban Hero** | Civic Tech Revolution | • 🔄 70% Response Boost<br>• 🗺️ Real-Time Tracking<br>• 📱 Mobile-First Design<br>• 🌐 Firebase Powered | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/akhil-varsh/UrbanHero) | 
+| **🏙️ Urban Hero** | Sustainable Development | • 🔄 70% Response Boost<br>• 🗺️ Real-Time Tracking<br>• 📱 Mobile-First Design<br>• 🌐 Firebase Powered | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/akhil-varsh/UrbanHero) | 
 | **💻 Syntax Sage** | Code Intelligence Platform | • ⏱️ 60% Efficiency<br>• 🧠 Llama 3.1:8B AI<br>• 🤝 CrewAI Orchestration<br>• 🌐 Flask Web Platform | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/akhil-varsh/SyntaxSage) | 
 
 
@@ -43,6 +42,8 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=akhil-varsh&color=blueviolet)
 
 
 ---
