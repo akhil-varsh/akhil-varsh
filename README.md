@@ -25,9 +25,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-varsh&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Streak: "Cobalt2" Theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-varsh&theme=dark" alt="GitHub Streak - Cobalt2 Theme" />
+  
+  <!-- Top Languages: "Radical" Theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=dark" alt="Top Languages - Radical Theme" />
+  
+  <!-- GitHub Stats: "Dark Dimmed" Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=monokai" alt="GitHub Stats" />
 </div>
+
 
 ## 🤝 Connect With Me
 
