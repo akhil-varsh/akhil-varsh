@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Akhil Varsh
+![Profile Views](https://komarev.com/ghpvc/?username=akhil-varsh&color=blueviolet)
 
 
 ## 🌈 About Me
@@ -44,7 +45,6 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=akhil-varsh&color=blueviolet)
 
 
 ---
