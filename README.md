@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=akhil-varsh&color=blueviolet)
 
 
-## 🌈 About Me
+## 🧢 About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E41C0&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Data+Science)+Student;Cloud+Computing+Enthusiast;Mobile+App+Developer;AI+Explorer;Machine+Learning+Enthusiast" alt="Typing SVG" />
