@@ -31,6 +31,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=dark&bg_color=1a0b2e&title_color=8A4FFF&text_color=FFFFFF)
 </div>
 
+## 🏆 LeetCode Stats
+
+[![LeetCode user Ak-CodeRipper](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAk-CodeRipper&logo=leetcode&logoColor=yellow)](https://leetcode.com/Ak-CodeRipper/)
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Ak-CodeRipper?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" style="max-width: 100%;">
+</div>
+
+
+
 ## 🤝 Connect With Me
 
 <p align="center">
