@@ -28,8 +28,7 @@
   
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akhil-varsh&theme=dark&background=1a0b2e&border=8A4FFF&stroke=8A4FFF&ring=8A4FFF&fire=8A4FFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF) ![GitHub User Stats](https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=dark&bg_color=1a0b2e&title_color=8A4FFF&text_color=FFFFFF&icon_color=8A4FFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=dark&bg_color=1a0b2e&title_color=8A4FFF&text_color=FFFFFF)
-</div>
+
 
 
 ## 🤝 Connect With Me
