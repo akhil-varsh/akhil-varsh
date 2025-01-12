@@ -24,11 +24,16 @@
 
 
 ## 📊 GitHub Stats
+
 <div align="center">
   
-![Github Stats](https://streak-stats.demolab.com/?user=akhil-varsh)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=dark&bg_color=1a0b2e&title_color=8A4FFF&text_color=FFFFFF)
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=dark&bg_color=000000&title_color=#0c8a21&text_color=00FF00)
+
+
 </div>
+
 
 
 ## 🤝 Connect With Me
