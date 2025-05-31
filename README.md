@@ -27,7 +27,9 @@
 
 
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-varsh&theme=github-compact" alt="GitHub Activity Graph"/>
+
+
+![Akhil's GitHub contributions](https://ghchart.rshah.org/akhil-varsh)
   
   <!-- Stats Row -->
   <img src="https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
