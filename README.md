@@ -28,8 +28,11 @@
 
 <div align="center">
 
+ style="background-color:#000000; padding:20px; border-radius:10px">
 
-<img src="https://ghchart.rshah.org/39D353/akhil-varsh" />
+
+  <img src="https://ghchart.rshah.org/3B82F6/akhil-varsh" alt="Akhil's GitHub contributions chart" />
+
   
   <!-- Stats Row -->
   <img src="https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
