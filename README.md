@@ -27,8 +27,7 @@
 
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-varsh&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B35&area=true&hide_border=true"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-varsh&theme=github-compact" alt="GitHub Activity Graph"/>
   
   <!-- Stats Row -->
   <img src="https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
