@@ -31,7 +31,7 @@
 <div align="center" style="background-color:#000000; padding:20px; border-radius:10px">
 
 
-  <img src="https://ghchart.rshah.org/FFA500/akhil-varsh" alt="Akhil's GitHub contributions chart" />
+  <img src="https://ghchart.rshah.org/F77F00/akhil-varsh" alt="Akhil's GitHub contributions chart" />
 
 
 
