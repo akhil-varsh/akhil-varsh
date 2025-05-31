@@ -29,7 +29,7 @@
 <div align="center">
 
 
-![Akhil's GitHub contributions](https://ghchart.rshah.org/akhil-varsh)
+<img src="https://ghchart.rshah.org/39D353/akhil-varsh" />
   
   <!-- Stats Row -->
   <img src="https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
