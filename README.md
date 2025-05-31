@@ -25,14 +25,21 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=dark&bg_color=000000&title_color=#0c8a21&text_color=00FF00)
-
-
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-varsh&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B35&area=true&hide_border=true"/>
+  
+  <!-- Stats Row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhil-varsh&theme=radical&hide_border=true" width="48%"/>
+  
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=radical&hide_border=true"/>
+  
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/akhil-varsh/akhil-varsh/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
 
 
 ## 🤝 Connect With Me
