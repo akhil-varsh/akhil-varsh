@@ -26,12 +26,15 @@
 ## 📊 GitHub Stats
 
 
-<div align="center">
 
- style="background-color:#000000; padding:20px; border-radius:10px">
 
+<div align="center" style="background-color:#000000; padding:20px; border-radius:10px">
+
+  <h3 style="color:#3B82F6;">📊 GitHub Contributions</h3>
 
   <img src="https://ghchart.rshah.org/3B82F6/akhil-varsh" alt="Akhil's GitHub contributions chart" />
+
+
 
   
   <!-- Stats Row -->
