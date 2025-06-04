@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Akhil Varsh
+# Hi there!  I'm Akhil Varsh
 ![Profile Views](https://komarev.com/ghpvc/?username=akhil-varsh&color=blueviolet)
 
 
