@@ -1,6 +1,19 @@
-# Hi there! 👋 I'm Akhil Varsh
-![Profile Views](https://komarev.com/ghpvc/?username=akhil-varsh&color=blueviolet)
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akhilvarsh" alt="HELLO SECTION">
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+      </td>
+      <td width="40%" align="center">
+        <img src="github-akhil.gif" alt="Akhil's GitHub Animation" width="350"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🧢 About Me
 
