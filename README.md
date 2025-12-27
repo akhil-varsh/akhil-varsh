@@ -57,8 +57,6 @@
   <!-- Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-varsh&layout=compact&theme=radical&hide_border=true"/>
   
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/akhil-varsh/akhil-varsh/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 
