@@ -44,6 +44,7 @@
 
 <div align="center" style="background-color:#000000; padding:20px; border-radius:10px">
 
+[![GitHub Streak](https://streak-stats.demolab.com)](https://git.io/streak-stats)
 
 
 
