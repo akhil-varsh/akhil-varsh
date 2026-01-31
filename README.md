@@ -44,7 +44,7 @@
 
 <div align="center" style="background-color:#000000; padding:20px; border-radius:10px">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akhil-varsh)](https://git.io/streak-stats)
+[![GitHub Streak]
 
 
 
@@ -53,7 +53,7 @@
   
   <!-- Stats Row -->
   <img src="https://github-readme-stats.vercel.app/api?username=akhil-varsh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhil-varsh" width="48%"/> 
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=akhil-varsh" width="48%"/> -->
   
   
 </div>
