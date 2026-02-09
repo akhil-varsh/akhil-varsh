@@ -2,7 +2,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td width="80%">
         
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akhilvarsh" alt="HELLO SECTION">
