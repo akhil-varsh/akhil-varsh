@@ -26,16 +26,6 @@
 
 <div align="center"> <table> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" width="60"/><br/><strong>C</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60"/><br/><strong>C++</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="60"/><br/><strong>Java</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="60"/><br/><strong>Python</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="60"/><br/><strong>Dart</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60"/><br/><strong>JavaScript</strong></td>  <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60"/><br/><strong>MySQL</strong></td> </tr> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60"/><br/><strong>Flutter</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" width="60"/><br/><strong>React</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60"/><br/><strong>Node.js</strong></td> </td> <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="60"/><br/><strong>Tensorflow</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="60"/><br/><strong>Git</strong>  <td align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60"/><br/><strong>AWS</strong></td> <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="60"/><br/><strong>GCP</strong></td>  </tr> </table> </div>
 
-## 🚀 Highlighted Projects
-
-
-| Project | Vision | Tech Arsenal | Explore Repository |
-|:--:|:--:|:--:| :--: |
-| **🔬 SnapLearn** | AI-Powered Question Generation | • 🚀 75% Faster Creation<br>• 📸 Google ML Kit OCR<br>• 🧠 Intelligent Generation<br>• 🔍 30-40 Diverse Questions | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/akhil-varsh/SnapLearn) | 
-| **🏙️ Urban Hero** | Sustainable Development | • 🔄 70% Response Boost<br>• 🗺️ Real-Time Tracking<br>• 📱 Mobile-First Design<br>• 🌐 Firebase Powered | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/akhil-varsh/UrbanHero) | 
-| **💻 Syntax Sage** | Code Intelligence Platform | • ⏱️ 80% Efficiency<br>• 🧠 Llama 3.1:8B AI<br>• 🤝 CrewAI Orchestration<br>• 🌐 Flask Web Platform | [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/akhil-varsh/SyntaxSage) | 
-
-
 
 ## 📊 GitHub Stats
 
